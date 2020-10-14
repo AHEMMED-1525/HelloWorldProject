@@ -1,0 +1,22 @@
+INFO  | 2020-10-13 20:51:01 | [main] JavaSamples.App (App.java:13) - Hello world! Will Be Printed on Info
+WARN  | 2020-10-13 20:51:01 | [main] JavaSamples.App (App.java:14) - Hello world! Will Be Printed on warn
+ERROR | 2020-10-13 20:51:01 | [main] JavaSamples.App (App.java:15) - Hello world! Will Be Printed on Error
+FATAL | 2020-10-13 20:51:01 | [main] JavaSamples.App (App.java:16) - Hello world! Will Be Printed on fatal
+INFO  | 2020-10-13 20:51:01 | [main] JavaSamples.App (App.java:17) - Appending string: Hello world!.
+DEBUG | 2020-10-13 20:52:03 | [main] JavaSamples.App (App.java:12) - Hello world! Will Be Printed on Debug
+INFO  | 2020-10-13 20:52:03 | [main] JavaSamples.App (App.java:13) - Hello world! Will Be Printed on Info
+WARN  | 2020-10-13 20:52:03 | [main] JavaSamples.App (App.java:14) - Hello world! Will Be Printed on warn
+ERROR | 2020-10-13 20:52:03 | [main] JavaSamples.App (App.java:15) - Hello world! Will Be Printed on Error
+FATAL | 2020-10-13 20:52:03 | [main] JavaSamples.App (App.java:16) - Hello world! Will Be Printed on fatal
+INFO  | 2020-10-13 20:52:03 | [main] JavaSamples.App (App.java:17) - Appending string: Hello world!.
+INFO  | 2020-10-13 20:52:22 | [main] JavaSamples.App (App.java:13) - Hello world! Will Be Printed on Info
+WARN  | 2020-10-13 20:52:22 | [main] JavaSamples.App (App.java:14) - Hello world! Will Be Printed on warn
+ERROR | 2020-10-13 20:52:22 | [main] JavaSamples.App (App.java:15) - Hello world! Will Be Printed on Error
+FATAL | 2020-10-13 20:52:22 | [main] JavaSamples.App (App.java:16) - Hello world! Will Be Printed on fatal
+INFO  | 2020-10-13 20:52:22 | [main] JavaSamples.App (App.java:17) - Appending string: Hello world!.
+DEBUG | 2020-10-13 20:52:32 | [main] JavaSamples.App (App.java:12) - Hello world! Will Be Printed on Debug
+INFO  | 2020-10-13 20:52:32 | [main] JavaSamples.App (App.java:13) - Hello world! Will Be Printed on Info
+WARN  | 2020-10-13 20:52:32 | [main] JavaSamples.App (App.java:14) - Hello world! Will Be Printed on warn
+ERROR | 2020-10-13 20:52:32 | [main] JavaSamples.App (App.java:15) - Hello world! Will Be Printed on Error
+FATAL | 2020-10-13 20:52:32 | [main] JavaSamples.App (App.java:16) - Hello world! Will Be Printed on fatal
+INFO  | 2020-10-13 20:52:32 | [main] JavaSamples.App (App.java:17) - Appending string: Hello world!.
